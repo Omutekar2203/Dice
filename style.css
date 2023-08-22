@@ -1,0 +1,24 @@
+*body{
+    text-align: center;
+}
+button{
+    background-color: goldenrod;
+    color: white;
+    border: 2px solid red;
+    border-radius: 12px;
+    width: 200px;
+    cursor: pointer;
+    padding: 10px;
+    margin: 50px auto;
+    margin-left: 580px;
+
+}
+#placeholder{
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    margin: 50px auto;
+    border: 2px solid red;
+    border-radius: 10px;
+    font-size: 80px;
+}
